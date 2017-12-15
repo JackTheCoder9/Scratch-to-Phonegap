@@ -3,9 +3,8 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "fivehoursatdoritos.jackscratch08.edu.mit.scratch"
         versionCode = "10" 
-        version     = "1.0.0" >
-
-        <icon src="file:///C:/Users/jack.stanton4/Downloads/icon.png"
+        version     = "1.0.0"
+            
     <!-- versionCode is optional and Android only -->
 
     <name>Five Hours at Doritos</name>
