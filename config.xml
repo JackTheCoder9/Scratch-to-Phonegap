@@ -5,6 +5,7 @@
         versionCode = "10" 
         version     = "1.0.0" >
 
+        <icon src="file:///C:/Users/jack.stanton4/Downloads/icon.png"
     <!-- versionCode is optional and Android only -->
 
     <name>Five Hours at Doritos</name>
