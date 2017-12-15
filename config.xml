@@ -7,13 +7,13 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>[Title of your app]</name>
+    <name>Five Hours at Doritos</name>
 
     <description>
-        Ann app made using Scratch, Phonegap, github, and PhoneGap
+        Can you survive? Five Hours at Doritos is a game where you shoot packets of Dorito's™ at Mountain Dew™ bottles. Miss and they'll attack you and you will lose! You win at 6PM!
     </description>
 
-    <author href="http://scratch.mit.edu/users/[Your Username]" email="[Your Email]">
+    <author href="http://scratch.mit.edu/users/JackScratch08" email="juniorshortstory@gmail.com">
         [Your Username]
     </author>
 
