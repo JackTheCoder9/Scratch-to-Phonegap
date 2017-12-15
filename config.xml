@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "[Put your id here]"
+        id          = "FiveHoursatDorito's.JackScratch08.edu.mit.scratch"
         versionCode = "10" 
         version     = "1.0.0" >
 
@@ -14,7 +14,7 @@
     </description>
 
     <author href="http://scratch.mit.edu/users/JackScratch08" email="juniorshortstory@gmail.com">
-        [Your Username]
+        JackScratch08
     </author>
 
 </widget>
